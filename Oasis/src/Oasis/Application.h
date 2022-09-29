@@ -11,4 +11,7 @@ namespace Oasis{
 
 		void Run();
 	};
+
+	//To be defined on the client side
+	Application* CreateApplication();
 }

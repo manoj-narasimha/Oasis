@@ -6,8 +6,6 @@ public:
 	~Sandbox(){}
 };
 
-int main() {
-	Sandbox* sandbox = new Sandbox();
-	sandbox->Run();
-	delete sandbox;
+Oasis::Application* Oasis::CreateApplication() {
+	return new Sandbox();
 }

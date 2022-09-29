@@ -24,6 +24,9 @@
     <ClInclude Include="src\Oasis.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\Oasis\EntryPoint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Oasis\Application.cpp">
