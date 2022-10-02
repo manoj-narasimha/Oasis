@@ -1,7 +1,7 @@
 #pragma once
 #include "Core.h"
 
-namespace Oasis{
+namespace Oasis {
 
 	class OASIS_API Application
 	{
